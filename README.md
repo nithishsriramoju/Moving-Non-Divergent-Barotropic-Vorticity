@@ -6,4 +6,4 @@
 
 #### Output figures are in L9fig folder, We can observe that the vorticity is moving left.
 
-
+#### Mathematical basics for algorithm are here https://glossary.ametsoc.org/wiki/Barotropic_model and https://glossary.ametsoc.org/wiki/Poisson_equation
